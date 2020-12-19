@@ -1,0 +1,32 @@
+
+/*Tag Name selector  style="background-color: #ccffff"*/
+body
+{
+	background-color: #bfff00;
+}
+
+/*Class Name*/
+.textblack
+{
+	color: black;			
+}
+.txtPegil
+{
+	color: Red;	
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+}
+
+/*identifier*/
+#identifier
+{
+	color: green			
+}	
+
+.gameContainer
+{
+	width: 500px;
+	height: 500px;
+	border: solid 2px;
+}
